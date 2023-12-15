@@ -1,3 +1,10 @@
 Hallo
 Ich habe Hunger.
 Spaghetti Bolognese
+
+Recipe:
+1. cut some vegetables and put them with some oil to a pot
+2. heat the meat extra
+3. put two cans of tomatoes to the vegetables
+4. cook the vegetables for 20 minutes
+5. put the meat to the pot with the vegetables
